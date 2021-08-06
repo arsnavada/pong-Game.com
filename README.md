@@ -1,3 +1,3 @@
 # Pong-Game
-A classic pong game by working cosmo
+A classic pong game by Arsh Navada.
 
